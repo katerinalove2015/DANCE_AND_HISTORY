@@ -1,0 +1,31 @@
+body {
+    background-color: lightpink;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border: dashed lightblue
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: deeppink;
+}
+
+h3 {
+    color: coral
+}
+
+p {
+    color: black;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+img {
+    border: 3px solid purple;
+    border-radius: 10px;
+}
